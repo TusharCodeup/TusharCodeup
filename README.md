@@ -13,7 +13,7 @@
 
 - 🎓 B.Tech **CSE Student**  
 - 💡 Exploring **DSA (C++/Java)**, **Web Development (MERN)**, and **Machine Learning**  
-- 💬 Love solving coding problems on **LeetCode** and contributing to **projects**  
+- 💬 Love solving coding problems and contributing to **projects**  
 - 🚀 Passionate about building scalable and impactful solutions  
 
 ---
@@ -29,7 +29,6 @@
 ### 📜 Certifications & Achievements:
 
 - ✅ Certified in **C++, Python, and Web Development**  
-- 🏅 Regular **LeetCode problem solver** ([My Profile](https://leetcode.com/u/TUSHAR_TIWARI/))  
 - 🧠 Built **AI/ML & Web Development projects**  
 
 ---
@@ -40,14 +39,6 @@
 - ⚙️ Data Structures & Algorithms (C++/Java)  
 - 📦 Full-Stack Web Development (MERN)  
 - 💻 System Design & Operating Systems  
-
----
-
-### 📊 LeetCode Stats:
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TUSHAR_TIWARI?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 ---
 
@@ -75,11 +66,7 @@
 <a href="https://github.com/TusharCodeup" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="40" width="40" />
 </a>
-<a href="https://leetcode.com/u/TUSHAR_TIWARI/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
-</a>
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
