@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
+<h1 align="center">Hi 👋, I'm Tushar Kumar Tiwari </h1>
 <h3 align="center">A Passionate Learner | Aspiring Software Developer | B.Tech CSE Student</h3>
 
 ---
