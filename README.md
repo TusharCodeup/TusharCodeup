@@ -37,8 +37,7 @@
 
 - 🤖 AI/ML Projects  
 - ⚙️ Data Structures & Algorithms (C++/Java)  
-- 📦 Full-Stack Web Development (MERN)  
-- 💻 System Design & Operating Systems  
+- 💻 System Design & Operating Systems (Learning)
 
 ---
 
